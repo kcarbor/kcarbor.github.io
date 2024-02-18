@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: M. Sc., M.A., head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.ai/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
+subtitle: M. Sc., M.A., head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href="https://scholar.google.de/citations?user=v3YfPJIAAAAJ"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a></p> <br>
+    <p><a href="https://scholar.google.de/citations?user=v3YfPJIAAAAJ"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a></p> </br>
     <p><a href="https://www.linkedin.com/in/kevin-baum-55999580/"><i class="fa-brands fa-linkedin-in"></i> Linkedin</a></p> <br>
 
 
@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 Hey there! My name is Kevin Baum and I am a philosopher and computer scientist. 
-Since January 2023 I am the deputy head of the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligence (DFKI)</a> and since December 2023 I am the new head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a>.
+Since January 2023 I am the deputy head of the research department on [Neuro-Mechanistic Modeling](https://www.dfki.de/nmm) at the [German Research Center for Artifical Intelligence (DFKI)](https://www.dfki.de/web) and since December 2023 I am the new head of the [Center for European Research in Trusted AI (CERTAIN)](https://certain.dfki.de').
 
 **Research Interests:** <br>
 🤖💡 My research revolves around a whole range of questions, all of which can be subsumed under __AI ethics__ in the broadest sense. I am particularly interested in the tension between social and ethical demands and what is technically feasible.  
