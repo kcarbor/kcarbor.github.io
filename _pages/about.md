@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: M. Sc., M.A., head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
+subtitle:  M.A. (Philosophy), M. Sc. (Computer Science), Responsbile and Trustworthy AI Researcher at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a> in Saarbrücken, Germany. 
+#head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
 profile:
   align: right
