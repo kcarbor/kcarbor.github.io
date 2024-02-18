@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gerritgr.github.io/sitemap.xml
