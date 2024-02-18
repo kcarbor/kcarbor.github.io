@@ -2,19 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dr. rer. nat., M. Sc., Postdoc at <a href='https://www.dfki.de/web'>DFKI</a>. Saarbrücken. Germany. 
+subtitle: M. Sc., M.A., head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.ai/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://github.com/gerritgr"><i class="fab fa-github"></i> GitHub</a></p> <br>
-    <p><a href="https://scholar.google.de/citations?user=e27EmFsAAAAJ&hl=de"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a></p> <br>
-    <p><a href="https://www.researchgate.net/profile/Gerrit-Grossmann"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></p> <br>
-    <p><a href="https://www.linkedin.com/in/gerrit-gro%C3%9Fmann/"><i class="fa-brands fa-linkedin-in"></i> Linkedin</a></p> <br>
-    <p><a href="https://twitter.com/GroGerrit"><i class="fa-brands fa-x-twitter"></i> Twitter/X</a></p>  <br>
-    <p><a href="https://medium.com/@gerritgr"><i class="fa-brands fa-medium"></i> Medium</a></p> 
+    <p><a href="https://scholar.google.de/citations?user=v3YfPJIAAAAJ"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a></p> <br>
+    <p><a href="https://www.linkedin.com/in/kevin-baum-55999580/"><i class="fa-brands fa-linkedin-in"></i> Linkedin</a></p> <br>
 
 
 news: false  # includes a list of news items
@@ -25,11 +21,11 @@ social: false  # includes social icons at the bottom of the page
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
 
-Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
-I work at the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligence (DFKI)</a>.
+Hey there! My name is Kevin Baum and I am a philosopher and computer scientist. 
+Since January 2023 I am the deputy head of the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligence (DFKI)</a> and since December 2023 I am the new head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a>.
 
 **Research Interests:** <br>
-🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__ such as graphs and networks with the __continuous nature__ of dynamic evolution, diffusion, and learning?
+🤖💡 My research revolves around a whole range of questions, all of which can be subsumed under __AI ethics__ in the broadest sense. I am particularly interested in the tension between social and ethical demands and what is technically feasible.  
 
 🎲🕸️ I am developing numerical methods to analyze __stochastic dynamical processes__ on complex networks. This research aims to understand how networks shape __collective phenomena__ like epidemics and rumors.
 
