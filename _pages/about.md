@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Ethicist, Philosopher, Computer Scientist | Researcher in Responsible and Trusted AI | Head of [CERTAIN](https://certain.dfki.de') and Deputy Head at [NMM](https://www.dfki.de/nmm), [DFKI](https://www.dfki.de/), Saarbrücken, Germany. 
+subtitle:  Ethicist, Philosopher, Computer Scientist | Researcher in Responsible and Trusted AI | Head of [CERTAIN](https://certain.dfki.de) and Deputy Head at [NMM](https://www.dfki.de/nmm), [DFKI](https://www.dfki.de/), Saarbrücken, Germany. 
 
 #head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
