@@ -36,8 +36,13 @@ Since January 2023 I am the deputy head of the research department on [Neuro-M
 
 👨‍🏫📘 I also engage with the field of __AI ethics__ understood as a subfield of __applied ethics__ more generally. I contribute to the formulation of __ethical guidelines__ for AI development and ponder on effective methodologies for __ethical education for computer science students and professionals__. Notably, our course [*Ethics for Nerds*](https://dcms.cs.uni-saarland.de/ethics_23/) won the ["Hochschulperle des Jahres" award from the *German Stifterverband* in 2019](https://saarland-informatics-campus.de/piece-of-news/stifterverband-hochschulperle-des-jahres-2019-fuer-ethics-for-nerds/), recognizing innovative teaching in higher education.
 
+
+**What else I do:** <br>
+
 Besides all that, I have also gained practical experience in the __ethical assessment of research projects__, be it as a member and deputy chairman of the [*Commission for the Ethics of Security-Relevant Research* ("Kommission für die Ethik sicherheitsrelevanter Forschung", KEF)](https://www.uni-saarland.de/verwaltung/wissenschaftliche-integritaet/sicherheitsrelevante-forschung.html) at *Saarland University* (UdS) (from 2020 to 2022), as a member of the [*Ethical Review Board* (ERB)](https://erb.cs.uni-saarland.de/) of *Saarbrücken Informatics Campus* (SIC), or as [__ethical advisor__ of the *DFKI Ethics Team*](https://www.dfki.de/web/ueber-uns/governance/ethik-team) and for an (undisclosed) EU Horizon 2020 project. I am also a co-founder of the non-profit association [*Algoright*](https://ww.algoright.de/), an __interdisciplinary think tank__ for good digitalization, which is primarily dedicated to __science communication and ethical consulting__. In addition, I was a permanent expert member for digital ethics of the [__Saarland State Parliament's Enquete Commission__ on *Digitalization in Saarland*](https://www.landtag-saar.de/Downloadfile.ashx?FileId=64456&FileName=So16_1902.pdf).
 
+
+**You really want to know more?** <br>
 
 All my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=v3YfPJIAAAAJ&hl=de), in the [DBLP](https://dblp.org/pid/132/8396.html), and on my [PhilPeople](https://philpeople.org/profiles/kevin-baum) profile. For a comprehensive overview of my academic and professional journey, here is my [curriculum vitae](#).
 
