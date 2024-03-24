@@ -23,7 +23,9 @@ social: false  # includes social icons at the bottom of the page
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
 
-Hey there! I'm Kevin Baum, a passionate ethicist (M.A.) and computer scientist (M.Sc.) at the forefront of exploring the ethical dimensions of AI. At DFKI, I lead efforts to ensure AI development aligns with societal standards.  
+Hey there! I'm Kevin Baum, a passionate ethicist (M.A.) and computer scientist (M.Sc.) at the forefront of exploring the ethical dimensions of AI. Recently, I successfully defended my dissertation in Philosophy.
+
+At DFKI, I lead efforts to ensure AI development aligns with societal standards.  
 In January 2023, I became deputy head of the research department for [Neuro-Mechanistic Modeling](https://www.dfki.de/nmm) at the [German Research Center for Artifical Intelligence (DFKI)](https://www.dfki.de/web) and in December 2023, I became head of the [Center for European Research in Trusted AI (CERTAIN)](https://certain.dfki.de).
 
 **Research Interests:** <br>
@@ -44,7 +46,7 @@ Besides all that, I have also gained practical experience in the __ethical asses
 
 **You really want to know more?** <br>
 
-All my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=v3YfPJIAAAAJ&hl=de), in the [DBLP](https://dblp.org/pid/132/8396.html), and on my [PhilPeople](https://philpeople.org/profiles/kevin-baum) profile. For a comprehensive overview of my academic and professional journey, here is my [curriculum vitae](#).
+All my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=v3YfPJIAAAAJ&hl=de), in the [DBLP](https://dblp.org/pid/132/8396.html), and on my [PhilPeople](https://philpeople.org/profiles/kevin-baum) profile. For a comprehensive overview of my academic and professional journey, here is my [curriculum vitae](/assets/pdf/CV_Baum_March2023.pdf).
 
 
 
