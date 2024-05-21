@@ -46,7 +46,7 @@ Besides all that, I have also gained practical experience in the __ethical asses
 
 **You really want to know more?** <br>
 
-All my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=v3YfPJIAAAAJ&hl=de), in the [DBLP](https://dblp.org/pid/132/8396.html), and on my [PhilPeople](https://philpeople.org/profiles/kevin-baum) profile. For a comprehensive overview of my academic and professional journey, here is my [curriculum vitae](/assets/pdf/CV_Baum_April2024.pdf).
+All my publications can be found on [Google Scholar](https://scholar.google.de/citations?user=v3YfPJIAAAAJ&hl=de), in the [DBLP](https://dblp.org/pid/132/8396.html), and on my [PhilPeople](https://philpeople.org/profiles/kevin-baum) profile. For a comprehensive overview of my academic and professional journey, here is my [curriculum vitae](/assets/pdf/CV_Baum.pdf).
 
 
 
