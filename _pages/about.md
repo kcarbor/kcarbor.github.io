@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ethicist, Philosopher, and Computer Scientist | Postdoctoral Researcher in Ethical, Responsible, and Trustworthy AI at the <a href='https://www.dfki.de'>German Research Center for Artificial Intelligence (DFKI)</a>, Saarbrücken, Germany | Head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> | Lead of the <a href='https://dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime'>Responsible AI and Machine Ethics (RAIME)</a> research group | Deputy Head of the <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> research department.
+subtitle:  Ethicist, Philosopher, and Computer Scientist | Postdoctoral Researcher in Ethical, Responsible, and Trustworthy AI at the <a href='https://www.dfki.de'>German Research Center for Artificial Intelligence (DFKI)</a>, Saarbrücken, Germany | Head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> | Lead of the <a href='https://dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime'>Responsible AI and Machine Ethics (RAIME)</a> research group | Deputy Head of the <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> research department.
 
 #head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
