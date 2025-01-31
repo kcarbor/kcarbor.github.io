@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
 
-Hey there! I'm Kevin Baum, a passionate ethicist and computer scientist at the forefront of exploring the ethical dimensions of AI.
+Hey there! I'm Dr. Kevin Baum, a passionate ethicist and computer scientist at the forefront of exploring the ethical dimensions of AI.
 
 At DFKI, I lead initiatives to ensure AI development aligns with societal values and ethical standards. In January 2023, I took on the role of deputy head of the [Neuro-Mechanistic Modeling](https://www.dfki.de/nmm) research department at the [DFKI](https://www.dfki.de/web). By December 2023, I became head of the [Center for European Research in Trusted AI (CERTAIN)](https://certain.dfki.de). Since October 2024, I have been leading my own research group, [Responsible AI and Machine Ethics (RAIME)](https://dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime).
 
