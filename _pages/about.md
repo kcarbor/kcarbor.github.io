@@ -20,7 +20,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
-
 Hi, I'm Kevin Baum, a passionate ethicist (Dr. phil.) and computer scientist (M.Sc.) at the forefront of AI research.
 As a senior researcher at the <a href="https://www.dfki.de">German Research Center for Artificial Intelligence (DFKI)</a>, I am dedicated to exploring the myriad challenges arising from the interplay between technology and society, immersing myself in responsible AI theory and practice.
 
