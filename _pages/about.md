@@ -4,8 +4,6 @@ title: about
 permalink: /
 subtitle:  Will AI ruin everything? Probably. I’m a Philosopher and Computer Scientist asking: But how exactly? And what can we do about it? 
 
-#head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
-
 profile:
   align: right
   image: prof_pic.jpg
