@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Will AI ruin everything? Probably. I’m a Philosopher and Computer Scientist asking: But how exactly? And what can we do about it? 
+subtitle:  "Will AI ruin everything? Probably. I’m a Philosopher and Computer Scientist asking: But how exactly? And what can we do about it?" 
 
 profile:
   align: right
