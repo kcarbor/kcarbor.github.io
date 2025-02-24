@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Ethicist & Philosopher (Dr. phil., M.A.), and Computer Scientist (M.Sc.) | Postdoctoral Researcher in Ethical, Responsible, and Trustworthy AI at the <a href='https://www.dfki.de'>German Research Center for Artificial Intelligence (DFKI)</a>, Saarbrücken, Germany | Head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> | Lead of the <a href='https://dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime'>Responsible AI and Machine Ethics (RAIME)</a> research group | Deputy Head and Lab Manager of the <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> research department.
+subtitle:  Will AI ruin everything? Probably. I’m a Philosopher and Computer Scientist asking: But how exactly? And what can we do about it? 
+
+
+
 
 #head of the <a href='https://certain.dfki.de'>Center for European Research in Trusted AI (CERTAIN)</a> and deputy head at the reserach department for <a href='https://www.dfki.de/nmm'>Neuro-Mechanistic Modeling (NMM)</a> at <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>. Saarbrücken. Germany. 
 
@@ -23,9 +26,12 @@ social: false  # includes social icons at the bottom of the page
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
 
-Hey there! I'm Dr. Kevin Baum, a passionate ethicist and computer scientist at the forefront of exploring the ethical dimensions of AI.
+Hi, I'm Kevin Baum, a passionate ethicist (Dr. phil.) and computer scientist (M.Sc.) at the forefront of AI research.
+As a senior researcher at the <a href="https://www.dfki.de">German Research Center for Artificial Intelligence (DFKI)</a>, I am dedicated to exploring the myriad challenges arising from the interplay between technology and society, immersing myself in responsible AI theory and practice.
 
-At DFKI, I lead initiatives to ensure AI development aligns with societal values and ethical standards. In January 2023, I took on the role of deputy head of the [Neuro-Mechanistic Modeling](https://www.dfki.de/nmm) research department at the [DFKI](https://www.dfki.de/web). By December 2023, I became head of the [Center for European Research in Trusted AI (CERTAIN)](https://certain.dfki.de). Since October 2024, I have been leading my own research group, [Responsible AI and Machine Ethics (RAIME)](https://dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime).
+Since October 2024, I have been leading my own research group, <a href="https://dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling/raime">Responsible AI and Machine Ethics (RAIME)</a>. From December 2023 until recently, I headed the <a href="https://certain.dfki.de">Center for European Research in Trusted AI (CERTAIN)</a> and continue to serve on its executive board. Additionally, I am deputy head and lab manager of the <a href="https://www.dfki.de/nmm">Neuro-Mechanistic Modeling (NMM)</a> research department.
+
+
 
 **Research Interests:** <br>
 
